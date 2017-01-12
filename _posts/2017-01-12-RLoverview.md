@@ -3,6 +3,8 @@ layout: post
 title: An Informal Survey of Current Challenges in Reinforcement Learning
 ---
 
+$$ a + b = \epsilon $$
+
 \section{Introduction: Challenges in Reinforcement Learning}
 \paragraph{State-of-the-art}
 Reinforcement learning is probably the most succesful learning paradigm for intelligent autonomous behaviour \cite{mnih2015human,silver2016mastering}. The current state-of-the-art is provided by (asynchronous) policy search methods \cite{mnih2016asynchronous,schulman2015high}. Although they show promising results in complicated scenario's, there remain several limitations. The first one is practical, as getting algorithms to work requires quite some experience and hand-tuning. However, we will here focus on more fundamental RL challenges, which may help overcome these 'domain-knowledge' challenges as well.   
