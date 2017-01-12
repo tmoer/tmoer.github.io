@@ -2,7 +2,23 @@
 layout: post
 title: An Informal Survey of Current Challenges in Reinforcement Learning
 ---
-$$
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}
+\usepackage{enumerate}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\usepackage[a4paper]{geometry}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{natbib}
+\usepackage{hyperref}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\begin{document}
+
 \section{Introduction: Challenges in Reinforcement Learning}
 \paragraph{State-of-the-art}
 Reinforcement learning is probably the most succesful learning paradigm for intelligent autonomous behaviour \cite{mnih2015human,silver2016mastering}. The current state-of-the-art is provided by (asynchronous) policy search methods \cite{mnih2016asynchronous,schulman2015high}. Although they show promising results in complicated scenario's, there remain several limitations. The first one is practical, as getting algorithms to work requires quite some experience and hand-tuning. However, we will here focus on more fundamental RL challenges, which may help overcome these 'domain-knowledge' challenges as well.   
@@ -22,4 +38,5 @@ For long, the major major limiting factor for scaling reinforcement learning alg
 
 \paragraph{Robotics experiments}
 The transfer of simulation results to real robotic experiments is non-trivial. Real robots can only learn in real wall-clock time, and are moreover vulnerable to physical harm, both greatly limiting the amount of acquirable experience. However, there are a few approaches that leverage end-to-end training in robotic scenario's. The prime example is Guided Policy Search \citep{levine2016end}, where trajectory optimization techniques are used to generated informative demonstration trajectories, to which an RL-like optimization is fitted. Other work uses results from transfer learning to accommodate the transition \citep{rusu2016sim}. 
-$$
+
+\end{document}
