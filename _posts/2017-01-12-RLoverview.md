@@ -1,5 +1,5 @@
 ---
 layout: post
-title: An Informal Survey of the Challenges in Reinforcement Learning
+title: An Informal Survey of Current Challenges in Reinforcement Learning
 ---
 ... 
