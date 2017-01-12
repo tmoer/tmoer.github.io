@@ -3,20 +3,6 @@ layout: post
 title: An Informal Survey of Current Challenges in Reinforcement Learning
 ---
 \documentclass{article}
-\usepackage{amsmath,amssymb}
-\usepackage{mathtools}
-\usepackage{enumerate}
-\usepackage[table]{xcolor}
-\usepackage{graphicx}
-\usepackage[a4paper]{geometry}
-\usepackage{algorithmic}
-\usepackage{algorithm}
-\usepackage{natbib}
-\usepackage{hyperref}
-
-\DeclareMathOperator*{\argmin}{arg\,min}
-\DeclareMathOperator*{\argmax}{arg\,max}
-
 \begin{document}
 
 \section{Introduction: Challenges in Reinforcement Learning}
