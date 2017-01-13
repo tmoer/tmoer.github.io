@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Informal Survey of Challenges in Reinforcement Learning (With References)
+title: An Informal Survey of Challenges in Reinforcement Learning
 ---
 
 Reading up on a new research topic is tricky, and takes about the first year of your PhD. For reinforcement learning (RL), you have a good start with the Sutton and Barto book. Then, you could also try the more recent book by Wiering and van Otterloo. However, progress in (deep) RL is so fast, that you really aren't done yet. What I found most difficult in the beginning was to figure out *what* are the remaining challenges, and what people are working on. To save you the hassle, I will try to informally summarize. 
