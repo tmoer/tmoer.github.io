@@ -8,7 +8,7 @@ I am a PhD student at Delft University of Technology, The Netherlands.
 
 ### More Information
 
-[thomasmoerland.nl](https://thomasmoerland.nl)
+[http://thomasmoerland.nl](http://thomasmoerland.nl)
 
 ### Contact me
 T.M.Moerland(at)tudelft.nl
