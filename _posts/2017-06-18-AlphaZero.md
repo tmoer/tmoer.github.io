@@ -5,7 +5,7 @@ title: A Single-Player Alpha Zero Implementation in 250 Lines of Python
 
 [Alpha Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) has recently changed the state-of-the-art of Artificial Intelligence (AI) performance in the game of [Go](https://www.nature.com/articles/nature24270), [Chess and Shogi](https://arxiv.org/pdf/1712.01815.pdf). In this blog post, I have implemented the AlphaZero algorithm *for single player games*. There are a few small modifications on my side to make it suitable for this setting, but these are rather small and explicitly mentioned in the text below. The core functionality (except some generic helper functions) takes merely ~250 lines of annoted Python code (including blank lines), contained in a single script. The main point of this blog post is to illustrate the potential simplicity of an AlphaZero implementation, and provide a baseline for interested people to experiment with. 
 
-Full code is available from [www.github.com/tmoer/alphazero_singleplayer.git](www.github.com/tmoer/alphazero_singleplayer.git)  
+Full code is available from [https://github.com/tmoer/alphazero_singleplayer](www.github.com/tmoer/alphazero_singleplayer.git)  
 
 
 ### Alpha Zero 
