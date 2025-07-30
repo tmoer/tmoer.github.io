@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-As you see, my blogging never really took off. I hope to return here some day.  
- 
-I am currently an Assistant Professor at Leiden University, The Netherlands. 
+I am an Assistant Professor at Leiden University, The Netherlands. See: [http://thomasmoerland.nl](http://thomasmoerland.nl)
 
-### More Information
-
-[http://thomasmoerland.nl](http://thomasmoerland.nl)
-
+My blogging never really took off. I hope to return here some day.  
