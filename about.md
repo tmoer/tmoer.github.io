@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student at Delft University of Technology, The Netherlands. 
+As you see, my blogging never really took off. I hope to return here some day.  
+ 
+I am currently an Assistant Professor at Leiden University, The Netherlands. 
 
 ### More Information
 
 [http://thomasmoerland.nl](http://thomasmoerland.nl)
 
-### Contact me
-T.M.Moerland(at)tudelft.nl
